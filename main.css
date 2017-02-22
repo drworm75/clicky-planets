@@ -31,7 +31,6 @@ body {
 }
 
 .planetName {
-    text-transform: capitalize;
     color: white;
     text-align: center;
     font-size: 40px;
@@ -47,4 +46,13 @@ body {
     height: 300px;
     width: 300px;
     margin: 20px;
+}
+
+.planetImage {
+	height: 300px;
+	width: 300px;
+}
+
+.hidden {
+	display: none;
 }
